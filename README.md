@@ -1,0 +1,1 @@
+L'objectif de ce project est  : utilisation de Docker pour regrouper applications web , spécifiquement  backend Spring Boot et frontend Angular, au sein d'un seul conteneur unique. En combinant ces deux technologies dans un conteneur ainsi un déploiement simple et une exécution harmonieuse de l'application.
